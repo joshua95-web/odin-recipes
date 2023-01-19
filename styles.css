@@ -1,0 +1,48 @@
+/* stylesheet */
+#maintitle {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(0, 102, 0);
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-size:x-large;
+}
+
+.linklist {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-align: center;
+    color:gold;
+    background-color: rgb(255, 248, 190);
+}
+
+#page1title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    background-color: rgb(0, 102, 0);
+    color: rgb(255, 255, 255);
+}
+
+.subheading {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 248, 190);
+    font-size: larger;
+}
+
+.description {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    background-color: rgb(255, 248, 190);
+}
+
+#ingredientslist {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    background-color: rgb(255, 248, 190);
+}
+
+#steps {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    background-color:rgb(180, 204, 170);
+}
