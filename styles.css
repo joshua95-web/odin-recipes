@@ -49,7 +49,6 @@ ul {
 
 .indexlinks {
     display: flex;
-    width: 2500px;
     justify-content: space-between;
     border: solid purple;
     padding-left: 100px;
