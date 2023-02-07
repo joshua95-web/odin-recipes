@@ -51,9 +51,9 @@ ul {
 
 .indexlinks {
     display: flex;
-    justify-content: space-between;
-    padding-left: 100px;
-    padding-right: 100px;
+    justify-content: space-around;
+    gap: 50px;
+    margin-bottom: -50px;
 }
 
 .indexmaincontainer {
