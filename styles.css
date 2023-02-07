@@ -125,5 +125,7 @@ body {
 
 
 #indeximages {
+    gap: 200px;
     display: flex;
+    justify-content: space-between;
 }
