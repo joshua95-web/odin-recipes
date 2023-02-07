@@ -129,7 +129,7 @@ body {
 
 
 #indeximages {
-    gap: 200px;
+    gap: 100px;
     display: flex;
     justify-content: space-between;
 }
