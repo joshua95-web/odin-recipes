@@ -97,7 +97,6 @@ body {
     font-size: 60px;
     padding: 40px;
     border-radius: 25px;
-    margin-bottom: 50px;
 }
 
 .description {
@@ -138,4 +137,14 @@ body {
     width: 100%;
     display: flex;
     justify-content: space-between;
+}
+
+.imageanddescriptioncontainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.descriptioncontainer {
+    display: flex;
+    flex-direction: column;
 }
