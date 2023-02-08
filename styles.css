@@ -37,7 +37,6 @@ ul {
     width: 100%;
 }
 
-
 .item1, .item2, .item3 {
   transition-duration: 0.4s;
   width: 300px;
@@ -51,16 +50,21 @@ ul {
   border-radius: 15px 50px 30px;
 }
 
+.item1 {
+    margin-left: -20px;
+}
+
 .indexlinks {
     display: flex;
     justify-content: space-evenly;
-    gap: 250px;
+    gap: 280px;
     margin-bottom: -50px;
 }
 
 .item1:hover, .item2:hover, .item3:hover {
+    font-weight: 500;
     background-color: rgb(0, 102, 0);
-    color: yellowgreen;
+    color: rgb(184, 255, 70);
 }
 
 
