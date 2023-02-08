@@ -53,7 +53,7 @@ ul {
 .indexlinks {
     display: flex;
     justify-content: space-evenly;
-    gap: 150px;
+    gap: 250px;
     margin-bottom: -50px;
 }
 
